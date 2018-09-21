@@ -1,8 +1,8 @@
-# NEO Smart Contract Development Environment for Java Developers
+# NEO Smart Contract Developer Environment Setup for Java
 
-In this tutorial, I will walk through how to set up a development environment to build NEO Smart Contracts using Java from the ground up. This tutorial is intended for developers ranging from beginners to experienced developers.
+In this tutorial, I will walk through how to set up a development environment to build NEO Smart Contracts using Java from the ground up.
 
-I will start with an introduction of the major components needed and then talk through setting up each step.  There are a few basic prerequisites.
+I will start with an introduction of the major components needed to build a Smart Contract on NEO and then talk through setting up each step.
 
 ### Prerequisites
 * Java
@@ -10,7 +10,7 @@ I will start with an introduction of the major components needed and then talk t
 * git (Strongly suggested)
 * IDE (I will be using Eclipse)
 
-This tutorial is targeted towards development on Mac/Linux; however, I will link to examples for Windows users.
+This tutorial is targeted towards development on Mac / Linux; however, I will link to examples for Windows users.
 
 **Note: At the end of each page, you will find a hyperlink to the next page.**
 
